@@ -1,0 +1,30 @@
+.register{
+    height: 400px;
+    width: 400px;
+   background-color: rgba(188, 240, 237, 0.6);
+   border-radius: 28px;
+}
+#name{
+    margin-top: 17px;
+    margin-left: 24px;
+
+}
+#reg{
+    margin-top: 14px;
+    
+}
+#email{
+    margin-top: 19px;
+    margin-left: 33px;
+}
+#pass{
+    margin-left: 17px;
+}
+body{
+   background-image: url(fall-autumn-red-season.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.checkbox{
+    margin-top: 37px;
+}
